@@ -1,7 +1,10 @@
 body,html{
     display: block;
-    border:0;
-    margin: 0;
+    border:auto;
+    margin: auto;
+    overflow:visible;
+    height: auto;
+    width: auto;
 }
 
 header{
@@ -10,14 +13,17 @@ header{
     background-size:cover;
     background-image: url(majestic-mountain-peak-tranquil-winter-landscape-generated-by-ai.jpg);
     background-position:center;
-    overflow: hidden;
+    overflow:hidden;
+    margin: auto;
+    border: auto;
 }
 
 .Titulo{ 
+    display: block;
     overflow:hidden;
     text-align: center;
     color: rgb(232, 230, 230);
-    font-size: 4vh;
+    font-size: 25px;
     font-family: "Doto", sans-serif;
     font-optical-sizing: auto;
     font-weight: 500;
