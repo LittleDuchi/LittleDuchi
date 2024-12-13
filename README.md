@@ -1,5 +1,14 @@
-## Hola buenas soy Duchi
-<div>###Hola</div>
+# Soy David
+Bienvenidos a mi perfil de GitHub, soy David Duchitanga Alvarado un estudiante de grado superior de sistemas informaticos en red que actualmente se encuentra terminando su formación .
+
+## Conocimientos
+Algunas de mis competencias aprendidas durante este curso son:
+- Python  básico
+- HTML intermedio
+- CSS intermedio
+- PHP basico 
+- Administración de Windows Server 
+
 <!--
 **LittleDuchi/LittleDuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
